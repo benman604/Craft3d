@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 98b27dd613d17e647a7ba54768088169
+  - enabled: 1
+    path: Assets/Scenes/BuildingGenerationHome.unity
+    guid: 438bbf7e49f46264caf80d060b03a44d
+  - enabled: 1
+    path: Assets/Scenes/TerrainGenerationHome.unity
+    guid: 8e026aefb66f6094fac06898e80b1df3
+  - enabled: 1
+    path: Assets/Scenes/Flat.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FloorDuplicator.unity
+    guid: f84f23f288665b34787bbc4f07fc00d4
+  - enabled: 1
+    path: Assets/Scenes/BuildingGenerator.unity
+    guid: 93513d3b988d2234c8b9d8c6f74d4de1
+  - enabled: 1
+    path: Assets/Scenes/Cubic.unity
+    guid: 1af82071b963b0d4d924b11dba73aa79
+  - enabled: 1
+    path: Assets/Scenes/Parabola.unity
+    guid: 026c9580a1b83734dbcbb29f71c67eb2
+  - enabled: 1
+    path: Assets/Scenes/Parabola2.unity
+    guid: 2897fe3f5bc99b64db2fb7aaff68380e
+  - enabled: 1
+    path: Assets/Scenes/Pyramid.unity
+    guid: b27eed566f3d8fe478fd29278f2842cd
+  - enabled: 1
+    path: Assets/Scenes/Sine.unity
+    guid: 37766c6c6ea9f604fa4e9402f86fd912
+  m_configObjects: {}
